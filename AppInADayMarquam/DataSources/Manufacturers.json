@@ -1,0 +1,20 @@
+[
+  {
+    "Data": "[{\"HQ\":\"https://diviceimage.azureedge.net/devices/HeadQ/acer_hq.png\",\"Logo\":\"https://diviceimage.azureedge.net/devices/Logos/Acer.png\",\"ManufacturerID\":1,\"Store\":\"https://diviceimage.azureedge.net/devices/Store/acer_store.png\",\"Title\":\"Acer\"},{\"HQ\":\"https://diviceimage.azureedge.net/devices/HeadQ/asus_hq.png\",\"Logo\":\"https://diviceimage.azureedge.net/devices/Logos/Asus.png\",\"ManufacturerID\":2,\"Store\":\"https://diviceimage.azureedge.net/devices/Store/asus_store.png\",\"Title\":\"Asus\"},{\"HQ\":\"https://diviceimage.azureedge.net/devices/HeadQ/dell_hq.png\",\"Logo\":\"https://diviceimage.azureedge.net/devices/Logos/Dell.png\",\"ManufacturerID\":3,\"Store\":\"https://diviceimage.azureedge.net/devices/Store/dell_store.png\",\"Title\":\"Dell\"},{\"HQ\":\"https://diviceimage.azureedge.net/devices/HeadQ/hp_hq.png\",\"Logo\":\"https://diviceimage.azureedge.net/devices/Logos/HP.png\",\"ManufacturerID\":4,\"Store\":\"https://diviceimage.azureedge.net/devices/Store/HP_store.png\",\"Title\":\"HP\"},{\"HQ\":\"https://diviceimage.azureedge.net/devices/HeadQ/microsoft_hq.png\",\"Logo\":\"https://diviceimage.azureedge.net/devices/Logos/Microsoft.png\",\"ManufacturerID\":5,\"Store\":\"https://diviceimage.azureedge.net/devices/Store/ms_store.png\",\"Title\":\"Microsoft\"},{\"HQ\":\"https://diviceimage.azureedge.net/devices/HeadQ/lenovo_hq.png\",\"Logo\":\"https://diviceimage.azureedge.net/devices/Logos/Lenovo.png\",\"ManufacturerID\":6,\"Store\":\"https://diviceimage.azureedge.net/devices/Store/lenovo_store.png\",\"Title\":\"Lenovo\"},{\"HQ\":\"https://diviceimage.azureedge.net/devices/HeadQ/samsung_hq.png\",\"Logo\":\"https://diviceimage.azureedge.net/devices/Logos/Samsung.png\",\"ManufacturerID\":7,\"Store\":\"https://diviceimage.azureedge.net/devices/Store/samsung_store.png\",\"Title\":\"Samsung\"},{\"HQ\":\"https://diviceimage.azureedge.net/devices/HeadQ/sony_hq.png\",\"Logo\":\"https://diviceimage.azureedge.net/devices/Logos/Sony.png\",\"ManufacturerID\":8,\"Store\":\"https://diviceimage.azureedge.net/devices/Store/sony_store.png\",\"Title\":\"Sony\"},{\"HQ\":\"https://diviceimage.azureedge.net/devices/HeadQ/toshiba_hq.png\",\"Logo\":\"https://diviceimage.azureedge.net/devices/Logos/Toshiba.png\",\"ManufacturerID\":9,\"Store\":\"https://diviceimage.azureedge.net/devices/Store/toshiba_store.png\",\"Title\":\"Toshiba\"}]",
+    "IsSampleData": false,
+    "IsWritable": false,
+    "Name": "Manufacturers",
+    "OrderedColumnNames": [
+      "ManufacturerID",
+      "Title",
+      "Logo",
+      "HQ",
+      "Store"
+    ],
+    "OriginalName": "Manufacturers",
+    "OriginalSchema": "*[HQ:i, Logo:i, ManufacturerID:n, Store:i, Title:s]",
+    "Schema": "*[HQ:i, Logo:i, ManufacturerID:n, Store:i, Title:s]",
+    "Token": "dummyToken",
+    "Type": "StaticDataSourceInfo"
+  }
+]
